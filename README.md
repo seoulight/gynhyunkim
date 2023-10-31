@@ -1,4 +1,5 @@
 [![gynhyunkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gynhyunkim)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <a href="https://velog.io/@gynhyunkim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gynhyunkim"/></a>
 <!--
 **gynhyunkim/gynhyunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
